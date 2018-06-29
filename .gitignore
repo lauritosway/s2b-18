@@ -1,0 +1,12 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+/resources/bower_modules
+/.idea
+/storage/app/images
+/public/images/
+.phpintel/
+.DS_Store
+Thumbs.db
+.env
